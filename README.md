@@ -1,2 +1,3 @@
 # Java_Lambda4
-Exemplos de funções Lambda usando Function&lt;T, R>
+
+Programa que a partir de uma lista, gera uma nova lista contendo os nomes dos produtos em caixa alta.
